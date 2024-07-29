@@ -1,0 +1,5 @@
+-MAKEUD_LBG="C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\HardwareDebug\Led_Driver_LSE_lbg.ud" 
+-cpu=S3 
+-output=Led_Driver_LSE.lib 
+-nologo 
+-lang=c99
