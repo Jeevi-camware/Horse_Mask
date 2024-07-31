@@ -1,16 +1,16 @@
 -cpu=S3
 -c
 -dev="C:/Users/vijay/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR7F102G6C.DVF"
--MAKEUD="C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\HardwareDebug\src\smc_gen\general"
--I "C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\src\smc_gen\r_config"
--I "C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\src\smc_gen\general"
--I "C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\src\smc_gen\r_bsp"
--I "C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\src\smc_gen\Config_RTC"
--I "C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\src\smc_gen\Config_TAU0_0"
--I "C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\src\smc_gen\Config_PORT"
--I "C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\src\smc_gen\Config_INTC"
--I "C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\src\smc_gen"
--I "C:\Users\vijay\Downloads\Belfield_KT\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE\src\smc_gen\r_pincfg"
+-MAKEUD="C:\Camware Electronics\Horse Mask\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE_V1.0.0\HardwareDebug\src\smc_gen\general"
+-I "C:\Camware Electronics\Horse Mask\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE_V1.0.0\src\smc_gen\r_config"
+-I "C:\Camware Electronics\Horse Mask\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE_V1.0.0\src\smc_gen\general"
+-I "C:\Camware Electronics\Horse Mask\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE_V1.0.0\src\smc_gen\r_bsp"
+-I "C:\Camware Electronics\Horse Mask\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE_V1.0.0\src\smc_gen\Config_RTC"
+-I "C:\Camware Electronics\Horse Mask\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE_V1.0.0\src\smc_gen\Config_TAU0_0"
+-I "C:\Camware Electronics\Horse Mask\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE_V1.0.0\src\smc_gen\Config_PORT"
+-I "C:\Camware Electronics\Horse Mask\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE_V1.0.0\src\smc_gen\Config_INTC"
+-I "C:\Camware Electronics\Horse Mask\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE_V1.0.0\src\smc_gen"
+-I "C:\Camware Electronics\Horse Mask\Belfield_KT\FW source code\Led_Driver_LSE\Led_Driver_LSE_V1.0.0\src\smc_gen\r_pincfg"
 -character_set=utf8
 -lang=c99
 -g

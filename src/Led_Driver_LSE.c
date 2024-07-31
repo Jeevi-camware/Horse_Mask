@@ -84,7 +84,7 @@ typedef enum
 #define HOUR__RTC                  1
 #define MINUTE__RTC                0
 #define SECOND__RTC                0
-#define MAX_DAYS                   2//160 days
+#define MAX_DAYS                   3//160 days
 #define TWO_HOURS                  120 //120=60 *60 * 2 --> 2Hours
 /*******************************************/
 
